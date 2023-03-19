@@ -16,7 +16,7 @@ https://gist.github.com/JingyuSunUOE/fdf277395d48573ce2968e871f67e9ac
 - After changing the path, type "streamlit run welcome.py --server.maxUploadSize 10000" in the terminal to generate a visual interface.
 
 # Results
-
+![](https://github.com/JingyuSunUOE/SummerIntern/raw/main/3D_visualization)
 
 # Reference
 - Paper link: https://www.sciencedirect.com/science/article/pii/S2213158217303273
