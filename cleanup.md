@@ -1,0 +1,14 @@
+
+- get preprocessing part 1 and part 2 importable
+- change preprocessing so that you only need an input and an output dir.
+- write up some simple instructions for it.
+- add option to delete the extra preprocessed files.
+- get the preprocessing to copy the ICV mask.
+- get the preprocessing as two simple callable scripts.
+- fix part 2 to allow multiple labels
+- make part two include masks
+- make part 1 save the brain masks for ICVs tpp
+- write documdntatoin for how to change models
+- debug diffrent losses.
+- remove about me from my github/.
+- write explanation on 
