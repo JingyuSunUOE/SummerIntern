@@ -17,6 +17,7 @@ https://gist.github.com/JingyuSunUOE/fdf277395d48573ce2968e871f67e9ac
 
 # Results
 ![](https://github.com/JingyuSunUOE/SummerIntern/raw/main/3D_visualization)
+![](https://github.com/JingyuSunUOE/SummerIntern/raw/main/visualization)
 
 # Reference
 - Paper link: https://www.sciencedirect.com/science/article/pii/S2213158217303273
